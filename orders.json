@@ -1,4 +1,4 @@
-{"OrderId": 1, "CustomerId": 181, "Date": "2018-01-01"},
+[{"OrderId": 1, "CustomerId": 181, "Date": "2018-01-01"},
 {"OrderId": 2, "CustomerId": 119, "Date": "2018-01-01"},
 {"OrderId": 3, "CustomerId": 69, "Date": "2018-01-01"},
 {"OrderId": 4, "CustomerId": 173, "Date": "2018-01-01"},
@@ -11232,4 +11232,4 @@
 {"OrderId": 11232, "CustomerId": 5, "Date": "2020-01-10"},
 {"OrderId": 11233, "CustomerId": 162, "Date": "2020-01-10"},
 {"OrderId": 11234, "CustomerId": 164, "Date": "2020-01-10"},
-{"OrderId": 11235, "CustomerId": 103, "Date": "2020-01-10"}
+{"OrderId": 11235, "CustomerId": 103, "Date": "2020-01-10"}]
