@@ -1,4 +1,4 @@
-{"CustomerId": 1,"Active": true,"Name": "Jason Orr","Address": "Ap #387-8229 Nullam Road","City": "Kilsyth","Country": "HN","Email": "lacus.Nulla@Classaptenttaciti.ca" },
+[{"CustomerId": 1,"Active": true,"Name": "Jason Orr","Address": "Ap #387-8229 Nullam Road","City": "Kilsyth","Country": "HN","Email": "lacus.Nulla@Classaptenttaciti.ca" },
 {"CustomerId": 2,"Active": true,"Name": "Devin Herman","Address": "P.O. Box 905, 9608 Etiam St.","City": "Portici","Country": "HR","Email": "Integer.vulputate.risus@est.co.uk" },
 {"CustomerId": 3,"Active": true,"Name": "Kennan Head","Address": "Ap #694-3226 Odio St.","City": "Bothey","Country": "JO","Email": "ligula@porttitortellusnon.org" },
 {"CustomerId": 4,"Active": false,"Name": "Peter Fry","Address": "Ap #378-2594 Arcu. Road","City": "Oudegem","Country": "LR","Email": "eu@Phasellusvitaemauris.com" },
@@ -397,4 +397,4 @@
 {"CustomerId": 397,"Active": true,"Name": "Upton Avila","Address": "277-2012 Aliquet Ave","City": "Fort Laird","Country": "SB","Email": "accumsan.convallis.ante@vestibulum.com" },
 {"CustomerId": 398,"Active": true,"Name": "Dorian Farmer","Address": "918-2741 Semper Avenue","City": "H_villers","Country": "PK","Email": "mauris@metusAliquam.org" },
 {"CustomerId": 399,"Active": true,"Name": "Philip Nolan","Address": "P.O. Box 159, 4292 Turpis Street","City": "Cessnock","Country": "SC","Email": "gravida@semperNam.org" },
-{"CustomerId": 400,"Active": true,"Name": "Carter Burke","Address": "342-2129 Nam Ave","City": "Banjarmasin","Country": "NA","Email": "Mauris@Duismi.ca" }
+{"CustomerId": 400,"Active": true,"Name": "Carter Burke","Address": "342-2129 Nam Ave","City": "Banjarmasin","Country": "NA","Email": "Mauris@Duismi.ca" }]
